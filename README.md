@@ -1,5 +1,5 @@
 # WeatherApp
-This App can be used to find out current climatic conditions using dartskyapi and mailbox api.
+This App can be used to find out climatic conditions of provided location using dartskyapi and mailbox api.
 
 Few screenshots of this webapp are as follows:
 
